@@ -170,7 +170,7 @@
   flex-direction: column;
 }
 
-.recipes__iframes {
+.recipes__iframe {
   border: none;
   height: 273px;
 }
